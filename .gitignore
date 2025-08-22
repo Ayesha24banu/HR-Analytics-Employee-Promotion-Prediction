@@ -1,0 +1,59 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
+*.bak
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Kaggle
+kaggle.json
+__kaggle/
+
+# Ignore all .json output except config
+*.json
+!config.json
+
+# Ignore model files or cache
+*.h5
+*.pkl
+*.pt
+*.ckpt
+cache/
