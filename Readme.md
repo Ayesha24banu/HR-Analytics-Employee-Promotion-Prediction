@@ -153,33 +153,38 @@ Logs help in **debugging** & **tracking experiments**.
 ## Output
 
 ### App Screenshots:
-![Single Prediction](<Single Prediction.png>)
 
-![Single Prediction - no promotion](<Single Prediction - no promotion (1).png>)
+<img width="1807" height="911" alt="Single Prediction" src="https://github.com/user-attachments/assets/d3fa9146-b124-41c9-805d-5acdc733e24d" />
 
-![Single Prediction - no promotion](<Single Prediction - no promotion (2).png>)
+<img width="1915" height="907" alt="Single Prediction - promotion (1)" src="https://github.com/user-attachments/assets/91771bcd-871e-4ecc-96ff-d899ea9c6f50" />
 
-![Single Prediction - promotion](<Single Prediction - promotion (1).png>)
+<img width="1026" height="806" alt="Single Prediction - promotion (2)" src="https://github.com/user-attachments/assets/42865ffe-84d1-4f60-9ae7-da0feda04593" />
 
-![Single Prediction - promotion](<Single Prediction - promotion (2).png>)
+<img width="1827" height="908" alt="Single Prediction - no promotion (1)" src="https://github.com/user-attachments/assets/41a0f129-4add-43dc-9582-b25ea749e3a0" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard.png>)
+<img width="1027" height="801" alt="Single Prediction - no promotion (2)" src="https://github.com/user-attachments/assets/13f9a353-159b-47f0-acc5-4b6e26271bb6" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard - 1.png>)
+<img width="1803" height="907" alt="Batch Prediction   Dashboard" src="https://github.com/user-attachments/assets/ec2a2451-ccef-45ff-a43c-435dee099b41" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard - 2.png>)
+<img width="1908" height="811" alt="Batch Prediction   Dashboard - 1" src="https://github.com/user-attachments/assets/945855f6-98ba-49a5-9aed-d9f4d957abde" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard - 3.png>)
+<img width="1912" height="907" alt="Batch Prediction   Dashboard - 2" src="https://github.com/user-attachments/assets/692e56a6-1cf7-4404-b5b8-0e25fc00b699" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard - 4.png>)
+<img width="1885" height="893" alt="Batch Prediction   Dashboard - 3" src="https://github.com/user-attachments/assets/5b37bd23-bd72-48c9-bb71-7072d0a7d0ea" />
 
-![Batch Prediction & Dashboard](<Batch Prediction & Dashboard - 5.png>)
+<img width="948" height="907" alt="Batch Prediction   Dashboard - 4" src="https://github.com/user-attachments/assets/e5b9f63c-0212-4ab9-9a97-6bbe2e498acf" />
+
+<img width="947" height="907" alt="Batch Prediction   Dashboard - 5" src="https://github.com/user-attachments/assets/a8d3a104-deb9-4b2f-84ce-ad34bf440ae7" />
 
 ---
 
 ## 🚀 Demo:
 
-<video controls src="HR - Analytics.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/876eb2e2-65fd-43d3-9a63-c6003186e622
+
+
 
 ---
 
@@ -266,4 +271,5 @@ See [`requirements.txt`](requirements.txt) for all Python dependencies.
 
 ### 📄 License
 Distributed under the MIT License. See `LICENSE` file for details.
+
 
