@@ -1,0 +1,593 @@
+2025-08-14 18:54:43 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 18:55:36 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 19:05:26 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 19:05:26 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 19:08:28 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 19:08:28 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 19:09:48 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 19:09:48 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 19:10:31 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 19:10:31 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 19:19:06 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 19:21:08 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 19:21:35 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 19:29:27 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 19:29:30 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 19:29:30 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 19:29:33 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 20:48:48 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 20:48:48 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-14 20:48:48 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-14 20:48:48 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 20:48:48 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 20:48:48 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 20:48:48 | INFO | root | Checking missing values...
+2025-08-14 20:48:48 | INFO | root | Doing univariate analysis...
+2025-08-14 20:48:57 | ERROR | root | Error plotting univariate for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\univariate_KPIs_met >80%.png'
+2025-08-14 20:48:57 | ERROR | root | Error plotting univariate for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\univariate_awards_won?.png'
+2025-08-14 20:48:59 | INFO | root | Doing bivariate analysis...
+2025-08-14 20:49:03 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:03 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:03 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:03 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:04 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:04 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:04 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:04 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | ERROR | root | Error plotting numerical bivariate for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\bivariate_KPIs_met >80%.png'
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | ERROR | root | Error plotting numerical bivariate for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\bivariate_awards_won?.png'
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:05 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:06 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:06 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 20:49:06 | INFO | root | Doing multivariate analysis...
+2025-08-14 20:49:07 | INFO | root | Checking for outliers...
+2025-08-14 20:49:09 | ERROR | root | Error plotting outliers for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\outliers_KPIs_met >80%.png'
+2025-08-14 20:49:09 | ERROR | root | Error plotting outliers for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\outliers_awards_won?.png'
+2025-08-14 20:49:10 | INFO | root | === EDA Completed successfully.===
+2025-08-14 21:19:57 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 21:19:58 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-14 21:19:58 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-14 21:19:58 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 21:19:58 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 21:19:58 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 21:19:58 | INFO | root | Checking missing values...
+2025-08-14 21:19:59 | INFO | root | Doing univariate analysis...
+2025-08-14 21:20:20 | ERROR | root | Error plotting univariate for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\univariate_KPIs_met >80%.png'
+2025-08-14 21:20:22 | ERROR | root | Error plotting univariate for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\univariate_awards_won?.png'
+2025-08-14 21:20:26 | INFO | root | Doing bivariate analysis...
+2025-08-14 21:20:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:40 | ERROR | root | Error plotting numerical bivariate for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\bivariate_KPIs_met >80%.png'
+2025-08-14 21:20:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:41 | ERROR | root | Error plotting numerical bivariate for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\bivariate_awards_won?.png'
+2025-08-14 21:20:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:20:43 | INFO | root | Doing multivariate analysis...
+2025-08-14 21:20:45 | INFO | root | Checking for outliers...
+2025-08-14 21:20:50 | ERROR | root | Error plotting outliers for KPIs_met >80%: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\outliers_KPIs_met >80%.png'
+2025-08-14 21:20:50 | ERROR | root | Error plotting outliers for awards_won?: [Errno 22] Invalid argument: 'C:\\Users\\ayesh\\Projects\\HR_Analytics\\output\\figures\\outliers_awards_won?.png'
+2025-08-14 21:20:53 | INFO | root | === EDA Completed successfully.===
+2025-08-14 21:43:53 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-14 21:43:53 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-14 21:43:53 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-14 21:43:54 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-14 21:43:54 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-14 21:43:54 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-14 21:43:54 | INFO | root | Checking missing values...
+2025-08-14 21:43:54 | INFO | root | Doing univariate analysis...
+2025-08-14 21:44:19 | INFO | root | Doing bivariate analysis...
+2025-08-14 21:44:29 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:29 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:30 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:30 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:31 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:31 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:32 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:32 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:33 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:33 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:33 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:33 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:34 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:34 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:35 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:35 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-14 21:44:36 | INFO | root | Doing multivariate analysis...
+2025-08-14 21:44:38 | INFO | root | Checking for outliers...
+2025-08-14 21:44:45 | INFO | root | === EDA Completed successfully.===
+2025-08-14 21:44:45 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-14 21:44:45 | INFO | root | Loaded raw training and test datasets.
+2025-08-14 21:44:45 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-14 21:44:45 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-14 21:44:45 | INFO | root | Dropped employee_id column.
+2025-08-14 21:44:45 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-14 21:44:46 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-14 21:44:46 | INFO | root | Preprocessing completed.
+2025-08-15 00:12:05 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-15 00:12:05 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-15 00:12:05 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-15 00:12:06 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-15 00:12:06 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-15 00:12:06 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-15 00:12:06 | INFO | root | Checking missing values...
+2025-08-15 00:12:07 | INFO | root | Doing univariate analysis...
+2025-08-15 00:12:33 | INFO | root | Doing bivariate analysis...
+2025-08-15 00:12:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:44 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:45 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:45 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:46 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:46 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:47 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:47 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:48 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:48 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:49 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:49 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:49 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:50 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:50 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:51 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:12:51 | INFO | root | Doing multivariate analysis...
+2025-08-15 00:12:53 | INFO | root | Checking for outliers...
+2025-08-15 00:13:01 | INFO | root | === EDA Completed successfully.===
+2025-08-15 00:13:01 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-15 00:13:01 | INFO | root | Loaded raw training and test datasets.
+2025-08-15 00:13:01 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-15 00:13:01 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-15 00:13:01 | INFO | root | Dropped employee_id column.
+2025-08-15 00:13:01 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-15 00:13:02 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-15 00:13:02 | INFO | root | Preprocessing completed.
+2025-08-15 00:13:02 | INFO | root | Initial train shape: (54808, 13), test shape: (23490, 13)
+2025-08-15 00:13:02 | INFO | root | Starting feature engineering...
+2025-08-15 00:13:02 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:13:02 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:13:02 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:13:02 | INFO | root | Feature engineering complete.
+2025-08-15 00:13:02 | INFO | root | Starting feature engineering...
+2025-08-15 00:13:02 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:13:02 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:13:02 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:13:02 | INFO | root | Feature engineering complete.
+2025-08-15 00:13:03 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:13:03 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:20:01 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:20:01 | INFO | root | Starting feature engineering...
+2025-08-15 00:20:01 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:20:01 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:20:01 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:20:01 | INFO | root | Feature engineering complete.
+2025-08-15 00:20:01 | INFO | root | Starting feature engineering...
+2025-08-15 00:20:01 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:20:01 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:20:01 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:20:01 | INFO | root | Feature engineering complete.
+2025-08-15 00:20:02 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:20:02 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:20:58 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-15 00:20:58 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-15 00:20:58 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-15 00:20:58 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-15 00:20:58 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-15 00:20:58 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-15 00:20:58 | INFO | root | Checking missing values...
+2025-08-15 00:20:59 | INFO | root | Doing univariate analysis...
+2025-08-15 00:21:26 | INFO | root | Doing bivariate analysis...
+2025-08-15 00:21:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 00:21:44 | INFO | root | Doing multivariate analysis...
+2025-08-15 00:21:46 | INFO | root | Checking for outliers...
+2025-08-15 00:21:53 | INFO | root | === EDA Completed successfully.===
+2025-08-15 00:21:53 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-15 00:21:54 | INFO | root | Loaded raw training and test datasets.
+2025-08-15 00:21:54 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-15 00:21:54 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-15 00:21:54 | INFO | root | Dropped employee_id column.
+2025-08-15 00:21:54 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-15 00:21:54 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-15 00:21:54 | INFO | root | Preprocessing completed.
+2025-08-15 00:21:55 | INFO | root | Initial train shape: (54808, 13), test shape: (23490, 13)
+2025-08-15 00:21:55 | INFO | root | Starting feature engineering...
+2025-08-15 00:21:55 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:21:55 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:21:55 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:21:55 | INFO | root | Feature engineering complete.
+2025-08-15 00:21:55 | INFO | root | Starting feature engineering...
+2025-08-15 00:21:55 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:21:55 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:21:55 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:21:55 | INFO | root | Feature engineering complete.
+2025-08-15 00:21:56 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:21:56 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:23:57 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:23:57 | INFO | root | Starting feature engineering...
+2025-08-15 00:23:57 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:23:57 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:23:57 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:23:57 | INFO | root | Feature engineering complete.
+2025-08-15 00:23:57 | INFO | root | Starting feature engineering...
+2025-08-15 00:23:57 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:23:57 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:23:57 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:23:57 | INFO | root | Feature engineering complete.
+2025-08-15 00:23:58 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:23:58 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:26:16 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:26:16 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:16 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:16 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:16 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:16 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:16 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:16 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:16 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:16 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:16 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:17 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:26:17 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:26:39 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:26:39 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:39 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:39 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:39 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:39 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:39 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:39 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:39 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:39 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:39 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:40 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:26:40 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:26:57 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:26:57 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:57 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:57 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:57 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:57 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:57 | INFO | root | Starting feature engineering...
+2025-08-15 00:26:57 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:26:57 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:26:57 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:26:57 | INFO | root | Feature engineering complete.
+2025-08-15 00:26:58 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:26:58 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:27:38 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:27:38 | INFO | root | Starting feature engineering...
+2025-08-15 00:27:38 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:27:38 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:27:38 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:27:38 | INFO | root | Feature engineering complete.
+2025-08-15 00:27:38 | INFO | root | Starting feature engineering...
+2025-08-15 00:27:38 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:27:38 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:27:38 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:27:38 | INFO | root | Feature engineering complete.
+2025-08-15 00:27:39 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:27:39 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:27:59 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:27:59 | INFO | root | Starting feature engineering...
+2025-08-15 00:27:59 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:27:59 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:27:59 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:27:59 | INFO | root | Feature engineering complete.
+2025-08-15 00:27:59 | INFO | root | Starting feature engineering...
+2025-08-15 00:27:59 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:27:59 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:27:59 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:27:59 | INFO | root | Feature engineering complete.
+2025-08-15 00:28:00 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:28:00 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 00:28:16 | INFO | root | Initial train shape: (54808, 16), test shape: (23490, 16)
+2025-08-15 00:28:16 | INFO | root | Starting feature engineering...
+2025-08-15 00:28:16 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:28:16 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:28:16 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:28:16 | INFO | root | Feature engineering complete.
+2025-08-15 00:28:16 | INFO | root | Starting feature engineering...
+2025-08-15 00:28:16 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 00:28:16 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 00:28:16 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 00:28:16 | INFO | root | Feature engineering complete.
+2025-08-15 00:28:17 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 00:28:17 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 10:30:52 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-15 10:30:53 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-15 10:30:53 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-15 10:30:53 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-15 10:30:53 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-15 10:30:53 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-15 10:30:53 | INFO | root | Checking missing values...
+2025-08-15 10:30:54 | INFO | root | Doing univariate analysis...
+2025-08-15 10:31:25 | INFO | root | Doing bivariate analysis...
+2025-08-15 10:31:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:44 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:44 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:45 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:45 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:47 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:47 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 10:31:48 | INFO | root | Doing multivariate analysis...
+2025-08-15 10:31:50 | INFO | root | Checking for outliers...
+2025-08-15 10:32:00 | INFO | root | === EDA Completed successfully.===
+2025-08-15 10:32:00 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-15 10:32:00 | INFO | root | Loaded raw training and test datasets.
+2025-08-15 10:32:00 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-15 10:32:00 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-15 10:32:00 | INFO | root | Dropped employee_id column.
+2025-08-15 10:32:00 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-15 10:32:01 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-15 10:32:01 | INFO | root | Preprocessing completed.
+2025-08-15 10:32:01 | INFO | root | Initial train shape: (54808, 13), test shape: (23490, 13)
+2025-08-15 10:32:01 | INFO | root | Starting feature engineering...
+2025-08-15 10:32:01 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 10:32:01 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 10:32:01 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 10:32:01 | INFO | root | Feature engineering complete.
+2025-08-15 10:32:01 | INFO | root | Starting feature engineering...
+2025-08-15 10:32:01 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 10:32:01 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 10:32:01 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 10:32:01 | INFO | root | Feature engineering complete.
+2025-08-15 10:32:02 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 10:32:02 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 10:32:03 | INFO | root | ===== Model Training Started =====
+2025-08-15 10:32:03 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 10:32:03 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 10:32:03 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 10:32:03 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 10:32:06 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 10:32:52 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 10:32:55 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 10:32:55 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 10:33:50 | INFO | root | Final Test Set Evaluation...
+2025-08-15 10:34:01 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 10:34:01 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 10:34:01 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 10:34:01 | INFO | root | ===== Model Training Completed =====
+2025-08-15 10:43:13 | INFO | root | ===== Model Training Started =====
+2025-08-15 10:43:13 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 10:43:13 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 10:43:13 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 10:43:14 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 10:43:16 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 10:43:55 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 10:43:58 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 10:43:58 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 10:44:51 | INFO | root | Final Test Set Evaluation...
+2025-08-15 10:45:01 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 10:45:02 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 10:45:02 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 10:45:02 | INFO | root | ===== Model Training Completed =====
+2025-08-15 10:56:28 | INFO | root | ===== Model Training Started =====
+2025-08-15 10:56:29 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 10:56:29 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 10:56:29 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 10:56:29 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 10:56:31 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 10:57:13 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 10:57:16 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 10:57:16 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 10:58:09 | INFO | root | Final Test Set Evaluation...
+2025-08-15 10:58:19 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 10:58:20 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 10:58:20 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 10:58:20 | INFO | root | ===== Model Training Completed =====
+2025-08-15 10:58:20 | INFO | root | Model training completed — Best Model: XGBoost_Tuned with Accuracy 0.9431
+2025-08-15 11:58:20 | INFO | root | ===== Model Training Started =====
+2025-08-15 11:58:20 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 11:58:20 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 11:58:20 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 11:58:21 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 11:58:21 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 11:58:37 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 11:58:38 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 11:58:38 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 11:59:01 | INFO | root | Final Test Set Evaluation...
+2025-08-15 11:59:05 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 11:59:05 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 11:59:05 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 11:59:05 | INFO | root | ===== Model Training Completed =====
+2025-08-15 12:07:58 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-15 12:07:58 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-15 12:07:58 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-15 12:07:58 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-15 12:07:58 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-15 12:07:58 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-15 12:07:58 | INFO | root | Checking missing values...
+2025-08-15 12:07:59 | INFO | root | Doing univariate analysis...
+2025-08-15 12:08:08 | INFO | root | Doing bivariate analysis...
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:12 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:13 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:13 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:13 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:13 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:14 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 12:08:15 | INFO | root | Doing multivariate analysis...
+2025-08-15 12:08:15 | INFO | root | Checking for outliers...
+2025-08-15 12:08:19 | INFO | root | === EDA Completed successfully.===
+2025-08-15 12:08:19 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-15 12:08:19 | INFO | root | Loaded raw training and test datasets.
+2025-08-15 12:08:19 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-15 12:08:19 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-15 12:08:19 | INFO | root | Dropped employee_id column.
+2025-08-15 12:08:20 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-15 12:08:20 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-15 12:08:20 | INFO | root | Preprocessing completed.
+2025-08-15 12:08:20 | INFO | root | Initial train shape: (54808, 13), test shape: (23490, 13)
+2025-08-15 12:08:20 | INFO | root | Starting feature engineering...
+2025-08-15 12:08:20 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 12:08:20 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 12:08:20 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 12:08:20 | INFO | root | Feature engineering complete.
+2025-08-15 12:08:20 | INFO | root | Starting feature engineering...
+2025-08-15 12:08:20 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 12:08:20 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 12:08:20 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 12:08:20 | INFO | root | Feature engineering complete.
+2025-08-15 12:08:21 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 12:08:21 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 12:08:21 | INFO | root | ===== Model Training Started =====
+2025-08-15 12:08:21 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 12:08:21 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 12:08:21 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 12:08:22 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 12:08:23 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 12:08:38 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 12:08:39 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 12:08:39 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 12:09:01 | INFO | root | Final Test Set Evaluation...
+2025-08-15 12:09:04 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 12:09:04 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 12:09:04 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 12:09:04 | INFO | root | Model training completed — Best Model: XGBoost_Tuned with Accuracy 0.9431
+2025-08-15 12:12:17 | INFO | root | ===== Model Training Started =====
+2025-08-15 12:12:17 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 12:12:17 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 12:12:17 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 12:12:17 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 12:12:18 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 12:12:33 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 12:12:33 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 12:12:33 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 12:12:52 | INFO | root | Final Test Set Evaluation...
+2025-08-15 12:12:56 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 12:12:57 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 12:12:57 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 12:12:57 | INFO | root | Model training completed — Best Model: XGBoost_Tuned with Accuracy 0.9431
+2025-08-15 12:13:57 | INFO | root | === Prediction Started ===
+2025-08-15 12:13:57 | ERROR | root | Error in predict_and_save: Model file not found at ../models/XGBoost_Tuned.pkl
+Traceback (most recent call last):
+  File "C:\Users\ayesh\Projects\HR_Analytics\notebook\../scripts\predict.py", line 31, in predict_and_save
+    raise FileNotFoundError(f"Model file not found at {model_path}")
+FileNotFoundError: Model file not found at ../models/XGBoost_Tuned.pkl
+2025-08-15 12:17:56 | INFO | root | === Prediction Started ===
+2025-08-15 12:17:56 | INFO | root | Loading model from ../output/models/XGBoost_Tuned.pkl...
+2025-08-15 12:17:56 | INFO | root | Loading test dataset from ../cleaned_data/test_processed.csv...
+2025-08-15 12:17:57 | INFO | root | Generating predictions...
+2025-08-15 12:17:57 | INFO | root | Predictions saved to ../output/predictions/predictions.csv
+2025-08-15 12:17:57 | INFO | root | === Prediction Completed Successfully ===
+2025-08-15 12:18:14 | INFO | root | === Prediction Started ===
+2025-08-15 12:18:14 | INFO | root | Loading model from ../output/models/XGBoost_Tuned.pkl...
+2025-08-15 12:18:14 | INFO | root | Loading test dataset from ../cleaned_data/test_processed.csv...
+2025-08-15 12:18:14 | INFO | root | Generating predictions...
+2025-08-15 12:18:14 | INFO | root | Predictions saved to ../output/predictions/predictions.csv
+2025-08-15 12:18:14 | INFO | root | === Prediction Completed Successfully ===
+2025-08-15 16:24:58 | INFO | root | Libraries imported and logging configured successfully.
+2025-08-15 16:24:59 | INFO | root | Train dataset loaded: (54808, 14)
+2025-08-15 16:24:59 | INFO | root | Test dataset loaded: (23490, 13)
+2025-08-15 16:24:59 | INFO | root | Train Dataset overview complete. Shape: (54808, 14)
+2025-08-15 16:24:59 | INFO | root | Test Dataset overview complete. Shape: (23490, 13)
+2025-08-15 16:24:59 | INFO | root | === Starting EDA on Train Dataset ===
+2025-08-15 16:24:59 | INFO | root | Checking missing values...
+2025-08-15 16:25:00 | INFO | root | Doing univariate analysis...
+2025-08-15 16:25:27 | INFO | root | Doing bivariate analysis...
+2025-08-15 16:25:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:37 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:38 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:39 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:40 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:41 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:42 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:43 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:44 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:44 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-15 16:25:45 | INFO | root | Doing multivariate analysis...
+2025-08-15 16:25:46 | INFO | root | Checking for outliers...
+2025-08-15 16:25:54 | INFO | root | === EDA Completed successfully.===
+2025-08-15 16:25:54 | INFO | root | Starting preprocessing of HR Analytics data...
+2025-08-15 16:25:55 | INFO | root | Loaded raw training and test datasets.
+2025-08-15 16:25:55 | INFO | root | Train shape: (54808, 14), Test shape: (23490, 13)
+2025-08-15 16:25:55 | INFO | root | Filled missing values in education with 'Unknown' and previous_year_rating with median.
+2025-08-15 16:25:55 | INFO | root | Dropped employee_id column.
+2025-08-15 16:25:55 | INFO | root | Applied Label Encoding to all categorical columns.
+2025-08-15 16:25:55 | INFO | root | Saved cleaned datasets to cleaned_data/ folder.
+2025-08-15 16:25:55 | INFO | root | Preprocessing completed.
+2025-08-15 16:25:56 | INFO | root | Initial train shape: (54808, 13), test shape: (23490, 13)
+2025-08-15 16:25:56 | INFO | root | Starting feature engineering...
+2025-08-15 16:25:56 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 16:25:56 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 16:25:56 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 16:25:56 | INFO | root | Feature engineering complete.
+2025-08-15 16:25:56 | INFO | root | Starting feature engineering...
+2025-08-15 16:25:56 | INFO | root | Added 'age_bucket' feature.
+2025-08-15 16:25:56 | INFO | root | Added 'tenure_bucket' feature.
+2025-08-15 16:25:56 | INFO | root | Added 'high_performance_flag' feature.
+2025-08-15 16:25:56 | INFO | root | Feature engineering complete.
+2025-08-15 16:25:57 | INFO | root | Feature engineered train saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\train_processed.csv
+2025-08-15 16:25:57 | INFO | root | Feature engineered test saved to: C:\Users\ayesh\Projects\HR_Analytics\cleaned_data\test_processed.csv
+2025-08-15 16:25:57 | INFO | root | ===== Model Training Started =====
+2025-08-15 16:25:57 | INFO | root | Loaded training dataset: (54808, 16)
+2025-08-15 16:25:57 | INFO | root | Data split - Train: (43846, 15), Test: (10962, 15)
+2025-08-15 16:25:57 | INFO | root | Starting cross-validation for baseline models...
+2025-08-15 16:25:58 | INFO | root | Logistic Regression CV Accuracy: 0.9176
+2025-08-15 16:26:00 | INFO | root | Decision Tree CV Accuracy: 0.8948
+2025-08-15 16:26:42 | INFO | root | Random Forest CV Accuracy: 0.9290
+2025-08-15 16:26:44 | INFO | root | XGBoost CV Accuracy: 0.9404
+2025-08-15 16:26:44 | INFO | root | Starting hyperparameter tuning...
+2025-08-15 16:27:37 | INFO | root | Final Test Set Evaluation...
+2025-08-15 16:27:47 | INFO | root | RandomForest_Tuned Test Accuracy: 0.9298
+2025-08-15 16:27:48 | INFO | root | XGBoost_Tuned Test Accuracy: 0.9431
+2025-08-15 16:27:48 | INFO | root | Best Model Saved: ../output/models/XGBoost_Tuned.pkl with Accuracy 0.9431
+2025-08-15 16:27:48 | INFO | root | Model training completed — Best Model: XGBoost_Tuned with Accuracy 0.9431
+2025-08-15 16:27:48 | INFO | root | === Prediction Started ===
+2025-08-15 16:27:48 | INFO | root | Loading model from ../output/models/XGBoost_Tuned.pkl...
+2025-08-15 16:27:48 | INFO | root | Loading test dataset from ../cleaned_data/test_processed.csv...
+2025-08-15 16:27:48 | INFO | root | Generating predictions...
+2025-08-15 16:27:48 | INFO | root | Predictions saved to ../output/predictions/predictions.csv
+2025-08-15 16:27:48 | INFO | root | === Prediction Completed Successfully ===

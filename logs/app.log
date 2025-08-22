@@ -1,0 +1,109 @@
+2025-08-18 09:08:37 | INFO | Loaded model: C:\Users\ayesh\Projects\HR_Analytics\output\models\XGBoost_Tuned.pkl and encoders.
+2025-08-18 09:09:01 | INFO | Starting feature engineering...
+2025-08-18 09:09:01 | INFO | Added 'age_bucket' feature.
+2025-08-18 09:09:01 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 09:09:01 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 09:09:01 | INFO | Feature engineering complete.
+2025-08-18 09:09:01 | INFO | Single prediction done. Result: 0, Confidence: 0.02%
+2025-08-18 09:09:15 | INFO | Starting feature engineering...
+2025-08-18 09:09:15 | INFO | Added 'age_bucket' feature.
+2025-08-18 09:09:15 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 09:09:15 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 09:09:15 | INFO | Feature engineering complete.
+2025-08-18 09:09:16 | INFO | Batch prediction done. Total=2, Promoted=0, Rate=0.00%
+2025-08-18 09:19:56 | INFO | Loaded model: C:\Users\ayesh\Projects\HR_Analytics\output\models\XGBoost_Tuned.pkl and encoders.
+2025-08-18 09:20:03 | INFO | Starting feature engineering...
+2025-08-18 09:20:03 | INFO | Added 'age_bucket' feature.
+2025-08-18 09:20:03 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 09:20:03 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 09:20:03 | INFO | Feature engineering complete.
+2025-08-18 09:20:06 | INFO | Single prediction done. Result: 0, Confidence: 0.02%
+2025-08-18 11:16:16 | INFO | Loaded model: C:\Users\ayesh\Projects\HR_Analytics\output\models\XGBoost_Tuned.pkl and encoders.
+2025-08-18 11:19:30 | INFO | Starting feature engineering...
+2025-08-18 11:19:30 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:19:30 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:19:30 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:19:30 | INFO | Feature engineering complete.
+2025-08-18 11:19:33 | INFO | Single prediction done. Result: 0, Confidence: 0.02%
+2025-08-18 11:38:50 | INFO | Starting feature engineering...
+2025-08-18 11:38:50 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:38:50 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:38:50 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:38:50 | INFO | Feature engineering complete.
+2025-08-18 11:38:53 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 11:43:07 | INFO | Starting feature engineering...
+2025-08-18 11:43:07 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:43:07 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:43:07 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:43:07 | INFO | Feature engineering complete.
+2025-08-18 11:43:16 | INFO | Starting feature engineering...
+2025-08-18 11:43:16 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:43:16 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:43:16 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:43:16 | INFO | Feature engineering complete.
+2025-08-18 11:43:18 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 11:43:21 | INFO | Starting feature engineering...
+2025-08-18 11:43:21 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:43:21 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:43:22 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:43:22 | INFO | Feature engineering complete.
+2025-08-18 11:43:25 | INFO | Starting feature engineering...
+2025-08-18 11:43:25 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:43:25 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:43:25 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:43:25 | INFO | Feature engineering complete.
+2025-08-18 11:43:27 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 11:43:32 | INFO | Starting feature engineering...
+2025-08-18 11:43:32 | INFO | Added 'age_bucket' feature.
+2025-08-18 11:43:32 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 11:43:32 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 11:43:32 | INFO | Feature engineering complete.
+2025-08-18 11:43:54 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 12:03:31 | INFO | Starting feature engineering...
+2025-08-18 12:03:31 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:03:31 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:03:31 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:03:31 | INFO | Feature engineering complete.
+2025-08-18 12:03:52 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 12:05:40 | INFO | Starting feature engineering...
+2025-08-18 12:05:40 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:05:40 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:05:40 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:05:40 | INFO | Feature engineering complete.
+2025-08-18 12:05:42 | INFO | Single prediction done. Result: 1, Confidence: 99.91%
+2025-08-18 12:05:42 | INFO | Starting feature engineering...
+2025-08-18 12:05:42 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:05:42 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:05:42 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:05:42 | INFO | Feature engineering complete.
+2025-08-18 12:06:02 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 12:09:44 | INFO | Starting feature engineering...
+2025-08-18 12:09:44 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:09:44 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:09:44 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:09:44 | INFO | Feature engineering complete.
+2025-08-18 12:09:47 | INFO | Single prediction done. Result: 0, Confidence: 0.02%
+2025-08-18 12:10:18 | INFO | Starting feature engineering...
+2025-08-18 12:10:18 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:10:18 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:10:18 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:10:18 | INFO | Feature engineering complete.
+2025-08-18 12:10:20 | INFO | Single prediction done. Result: 1, Confidence: 99.94%
+2025-08-18 12:10:41 | INFO | Starting feature engineering...
+2025-08-18 12:10:41 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:10:41 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:10:41 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:10:41 | INFO | Feature engineering complete.
+2025-08-18 12:10:43 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 12:10:51 | INFO | Starting feature engineering...
+2025-08-18 12:10:51 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:10:51 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:10:51 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:10:51 | INFO | Feature engineering complete.
+2025-08-18 12:10:53 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
+2025-08-18 12:11:07 | INFO | Starting feature engineering...
+2025-08-18 12:11:07 | INFO | Added 'age_bucket' feature.
+2025-08-18 12:11:07 | INFO | Added 'tenure_bucket' feature.
+2025-08-18 12:11:07 | INFO | Added 'high_performance_flag' feature.
+2025-08-18 12:11:07 | INFO | Feature engineering complete.
+2025-08-18 12:11:34 | INFO | Batch prediction done. Total=23490, Promoted=1495, Rate=6.36%
