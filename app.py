@@ -63,7 +63,7 @@ html, body, [class*="css"] { font-family: Inter, Segoe UI, system-ui, Arial, san
 # =========================
 # Model + Encoder Loading
 # =========================
-MODEL_DIR = "../output/models"
+MODEL_DIR = "output/models"
 
 @st.cache_resource
 def load_model_and_encoders():
@@ -281,4 +281,5 @@ with tab_batch:
         except Exception as e:
             st.error(f"Error in batch prediction: {e}")
             logging.error(f"Batch prediction error: {e}")
+
 
