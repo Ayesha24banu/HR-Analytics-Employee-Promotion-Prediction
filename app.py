@@ -23,9 +23,10 @@ import matplotlib.pyplot as plt
 # =========================
 # Logging Setup
 # =========================
-LOG_DIR = r"C:\Users\ayesh\Projects\HR_Analytics\logs"
+LOG_DIR = "logs"
 os.makedirs(LOG_DIR, exist_ok=True)
 LOG_FILE = os.path.join(LOG_DIR, "app.log")
+
 logging.basicConfig(
     filename=LOG_FILE,
     filemode="a",
@@ -62,7 +63,7 @@ html, body, [class*="css"] { font-family: Inter, Segoe UI, system-ui, Arial, san
 # =========================
 # Model + Encoder Loading
 # =========================
-MODEL_DIR = r"C:\Users\ayesh\Projects\HR_Analytics\output\models"
+MODEL_DIR = "../output/models"
 
 @st.cache_resource
 def load_model_and_encoders():
@@ -280,3 +281,4 @@ with tab_batch:
         except Exception as e:
             st.error(f"Error in batch prediction: {e}")
             logging.error(f"Batch prediction error: {e}")
+
